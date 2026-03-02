@@ -1,0 +1,10 @@
+# Ignore model binary
+random_forest_model.joblib
+
+# Python cache and environment
+__pycache__/
+*.pyc
+.env
+
+# IDE files
+.vscode/
